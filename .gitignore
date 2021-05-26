@@ -9,3 +9,5 @@ regex.ipynb
 *.csv
 *.xlsx
 *.pdf
+webscreaping_venv/
+.vscode/
